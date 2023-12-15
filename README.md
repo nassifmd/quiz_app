@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://postimg.cc/NKSQxkmS)
+[![Product Name Screen Shot][product-screenshot]](/public/images/Screenshot.png)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
@@ -122,7 +122,7 @@ Project Link: (https://github.com/nassifmd/quiz_app)
 [stars-url]: https://github.com/nassifmd
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/nassif-dauda/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: /public/images/Screenshot.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [HTML5]: https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png
