@@ -48,9 +48,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][HTML5]][Next-url]
+* [![HTML][HTML5]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Tailwind CSS]][Tailwind-url]
+* [![Tailwind][TailwindCSS]][Tailwind-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,5 +125,7 @@ Project Link: (https://github.com/nassifmd/quiz_app)
 [product-screenshot]: images/screenshot.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[HTML5]: https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png
 [HTML5-url]: https://html5.org/
+[TailwindCSS]: https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg
 [Tailwind-url]: https://tailwindcss.com/
