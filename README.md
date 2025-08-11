@@ -10,7 +10,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](/public/images/Screenshot.png)
+[![Product Name Screen Shot][product-screenshot]](/public/images/Screenshot.png)]]
 
 
 ### Built With
