@@ -15,9 +15,9 @@
 
 ### Built With
 
-* [![HTML][HTML5]][HTML5-url]
-* [![React][React.js]][React-url]
-* [![Tailwind][TailwindCSS]][Tailwind-url]
+* HTML
+* React
+* TailwindCSS
 
 
 <!-- GETTING STARTED -->
