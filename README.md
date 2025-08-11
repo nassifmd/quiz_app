@@ -31,20 +31,9 @@ This a quize game that was built for everybody.
 2. select the correct answer
 3. win/lose
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
 Your Name - [@twitter_handle](https://twitter.com/nassifmd__) - nassif.dauda@gmail.com
 
 Project Link: (https://github.com/nassifmd/quiz_app)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
